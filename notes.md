@@ -8,7 +8,7 @@
 - 參考 [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/) 讓學習筆記更出色。
 - 整理自己的學習筆記，可以依照技能項目分段落（如下所示）亦可以依照自己的偏好分段。
 
-## Jupyter 星球
+## Jupyte
 
 ## 命令列
 
